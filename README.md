@@ -22,4 +22,4 @@ cd ..\TimescaleMetrics.API
 dotnet run --launch-profile https
 ```
 4. Браузер
---открыть в браузере ссылку https://localhost:7157/swagger
+-- открыть в браузере ссылку https://localhost:7157/swagger
