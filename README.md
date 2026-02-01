@@ -8,7 +8,7 @@ docker-compose up -d
 ```
 - проверка запустилась ли бд в контейнере
 ```
-docker-compose ps
+docker ps
 ```
 
 2. Применение миграций
